@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetrofitMoney</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">splash</string>
+    <string name="название">Название</string>
+    <string name="закупка">закупка</string>
+    <string name="продажа">продажа</string>
+    <string name="usd">usd</string>
+    <string name="_25_13">25.13</string>
+    <string name="_33_24">33.24</string>
+</resources>
